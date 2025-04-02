@@ -1,7 +1,7 @@
 # Rainfall-prediction-ML
 Goal: is to predict rainfall for each day of the year.
 Binary Prediction with a Rainfall Dataset
-✅ Result of competition: top 320 OUT OF 4380
+# ✅ Result of competition: top 320 OUT OF 4380
 MY BEST SCORE: 0.89982
 BEST SCORE IN COMPETITION: 0.90654
 
