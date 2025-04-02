@@ -1,7 +1,7 @@
-# Rainfall-prediction-ML
+# Rainfall-prediction-ML                                           
 Goal: is to predict rainfall for each day of the year.
 Binary Prediction with a Rainfall Dataset
-# ✅ Result of competition: top 320 OUT OF 4380
+# <img width="100" alt="transparent logo" src="https://github.com/user-attachments/assets/6b97b9f9-372c-456c-a2eb-4ad9331424cb" /> ✅ Result of competition: top 320 OUT OF 4380 
 MY BEST SCORE: 0.89982
 BEST SCORE IN COMPETITION: 0.90654
 
@@ -19,5 +19,4 @@ sample_submission.csv - a sample submission file in the correct format.
 # Evaluation
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
 
-Submission File
-For each id in the test set, you must predict a probability for the target rainfall. The file should contain a header and have the following format:
+Submission File :For each id in the test set, you must predict a probability for the target rainfall.
